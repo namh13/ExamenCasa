@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415691050 source:c:\users\usuario1\documents\ceutec\orga\examencasa\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
